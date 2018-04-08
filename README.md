@@ -4,7 +4,7 @@
 Robot build options:
 <li> Arlo Complete Robot System (https://www.parallax.com/product/28966)
 <br>
-or build using the motors and controller <br>
+or build using the motors and controller <br><br>
 Parts List:
 <li>Arlo Motor Mount & Wheel Kit - Aluminum (https://www.parallax.com/product/28962)
 <li>Arlo Caster Wheel Kit (https://www.parallax.com/product/28961)
