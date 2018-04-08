@@ -1,7 +1,7 @@
 # ArloRos
 <b>Open source robot based on Arlo Motors and H-Bridge Controller</b>
 <br><br>
-<img src="https://github.com/kmarif/ArloRos/blob/master/images/ArloRos_1.jpg" alt="ArloRos Research Platform">
+<img src="https://github.com/kmarif/ArloRos/blob/master/images/ArloRos_01.jpg" alt="ArloRos Research Platform">
 <br><br>
 Robot build options:
 <li> Arlo Complete Robot System (https://www.parallax.com/product/28966)
